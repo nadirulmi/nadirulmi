@@ -4,7 +4,7 @@
 
 <h3 align="center">What I'm learning now?</h3>
 
-- 💻 I’m currently learning Next.js, a tool I use for developing dynamic web applications with React. I recently applied these skills in a group project, and you can find the repository for this project [here](https://github.com/SebaGatti91/PF-GreenWave-Front).
+- 💻 I’m currently learning Next.js, a tool I use for developing dynamic web applications with React. I recently applied these skills in a group project, and you can find the repository for this project [here](https://github.com/SebaGatti91/PF-GreenWave-Front).<br>
 I'm also keen on expanding my skills with Vue.js and React Native to tackle user interface projects and cross-platform mobile applications.
 
 <hr>
