@@ -24,8 +24,6 @@ I'm also keen on expanding my skills with Vue.js and React Native to tackle user
 <p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 <hr>
 
-Ready to contribute my creativity to exciting projects. Let's connect and create magic in web development!
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/nadir-yamila-ulmi-38b017227" target="blank">
@@ -33,6 +31,8 @@ Ready to contribute my creativity to exciting projects. Let's connect and create
     </a>
 </p>
 <p>📫 ulminadir99@gmail.com </p>
+
+<h3>Ready to contribute my creativity to exciting projects. Let's connect and create magic in web development!</h3>
 
 
 
