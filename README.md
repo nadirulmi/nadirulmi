@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nadir Ulmi</h1>
 <p align="center">I'm a fullstack developer specializing in front-end and web design. With two years of programming experience, I enjoy bringing code to life in a webpage's interface. My passion lies in crafting visually appealing and functional experiences</p>
-<hr>
 
-<p align="center">
-       <img src="https://github.com/nadirulmi/nadirulmi/issues/1#issue-2056750497" alt="About Me Image" width="600"/>
-</p>
+![about-me](https://github.com/nadirulmi/nadirulmi/assets/106765602/f80edbc6-9efd-4455-a281-cadf0e4244d3)
+
+
+<hr>
 
 <h3 align="center">What I'm learning now?</h3>
 
