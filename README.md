@@ -1,17 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your GitHub README</title>
-    <style>
-        body {
-            background-color: #ffd1dc; /* Color rosa pastel */
-        }
-    </style>
-</head>
-<body>
-
 <h1 align="center">Hi 👋, I'm Nadir Ulmi</h1>
 <p align="center">I'm a fullstack developer specializing in front-end and web design. With two years of programming experience, I enjoy bringing code to life in a webpage's interface. My passion lies in crafting visually appealing and functional experiences</p>
 <hr>
@@ -33,6 +19,4 @@ I'm also keen on expanding my skills with Vue.js and React Native to tackle user
 
 <hr>
 
-</body>
-</html>
 
