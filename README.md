@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nadir Ulmi</h1>
 <p align="center">I'm a fullstack developer specializing in front-end and web design. With two years of programming experience, i enjoy bringing code to life in a webpage's interface. My passion lies in crafting visually appealing and functional experiences</p>
 <hr>
+
+<h4 align="center">What i'm learning now?</h4>
+
+- 🌱 I’m currently learning Next.js, a tool I use for developing dynamic web applications with React. I recently applied these skills in a group project, and you can find the repository for this project here https://github.com/SebaGatti91/PF-GreenWave-Front. I'm also keen on expanding my skills with Vue.js and React Native to tackle user interface projects and cross-platform mobile applications.**
 <!--
 **nadirulmi/nadirulmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
