@@ -2,7 +2,7 @@
 <p align="center">I'm a fullstack developer specializing in front-end and web design. With two years of programming experience, I enjoy bringing code to life in a webpage's interface. My passion lies in crafting visually appealing and functional experiences</p>
 <hr>
 
-<h3 align="center">What I'm learning now?</h3>
+<h3 align="center" style="background-color: #ffd1dc;">What I'm learning now?</h3>
 
 - 💻 I’m currently learning Next.js, a tool I use for developing dynamic web applications with React. I recently applied these skills in a group project, and you can find the repository for this project [here](https://github.com/SebaGatti91/PF-GreenWave-Front).<br>
 I'm also keen on expanding my skills with Vue.js and React Native to tackle user interface projects and cross-platform mobile applications.
