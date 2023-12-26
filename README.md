@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nadir Ulmi</h1>
 <h3 align="center">A Full Stack Developer</h3>
+
+
+<p align="center">I'm a fullstack developer specializing in front-end and web design. With two years of programming experience, i enjoy bringing code to life in a webpage's interface. My passion lies in crafting visually appealing and functional experiences</p>
 <!--
 **nadirulmi/nadirulmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
