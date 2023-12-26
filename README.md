@@ -3,7 +3,7 @@
 <hr>
 
 <p align="center">
-       <img src=" ![about-me](https://github.com/nadirulmi/nadirulmi/assets/106765602/b1b8e779-8aeb-4ac7-9ce2-b01c9a594aa9)" alt="About Me Image" width="600"/>
+       <img src="https://github.com/nadirulmi/nadirulmi/issues/1#issue-2056750497" alt="About Me Image" width="600"/>
 </p>
 
 <h3 align="center">What I'm learning now?</h3>
