@@ -3,7 +3,7 @@
 <hr>
 
 <p align="center">
-    <img src="https://ray.so/#code=PHA-IEknbSBhIGZ1bGxzdGFjayBkZXZlbG9wZXIgc3BlY2lhbGl6aW5nIGluIGZyb250LWVuZCBhbmQgd2ViIGRlc2lnbi4gV2l0aCB0d28geWVhcnMgb2YgcHJvZ3JhbW1pbmcgZXhwZXJpZW5jZSwgSSBlbmpveSBicmluZ2luZyBjb2RlIHRvIGxpZmUgaW4gYSB3ZWJwYWdlJ3MgaW50ZXJmYWNlLiBNeSBwYXNzaW9uIGxpZXMgaW4gY3JhZnRpbmcgdmlzdWFsbHkgYXBwZWFsaW5nIGFuZCBmdW5jdGlvbmFsIGV4cGVyaWVuY2VzIDwvcD4&darkMode=true&background=true&theme=breeze&language=clojure&title=About_me&padding=64" alt="About Me Image" width="600"/>
+   ![about-me](https://github.com/nadirulmi/nadirulmi/assets/106765602/b1b8e779-8aeb-4ac7-9ce2-b01c9a594aa9)
 </p>
 
 <h3 align="center">What I'm learning now?</h3>
