@@ -26,4 +26,6 @@ I'm also keen on expanding my skills with Vue.js and React Native to tackle user
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 <hr>
 
+<h4 align="left">Technologies: </h4>
+
 
